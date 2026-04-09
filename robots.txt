@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lightbryan26.github.io/kml-law-group-pc-c0921/sitemap.xml
